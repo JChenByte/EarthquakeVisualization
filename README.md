@@ -15,6 +15,7 @@ Filter:
 ![Filter](https://github.com/JChenByte/EarthquakeVisualization/raw/master/filter-demo.gif)
 
 Earthquake Details:
+
 ![Earthquake Details](https://github.com/JChenByte/EarthquakeVisualization/raw/master/details-demo.gif)
 
 Installation
